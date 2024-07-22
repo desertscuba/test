@@ -27,3 +27,5 @@ saved
 unsaved
 
 cool
+commit staged
+other
