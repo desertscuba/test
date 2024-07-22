@@ -29,3 +29,18 @@ unsaved
 cool
 commit staged
 other
+q
+
+hi
+a
+a
+one
+two
+a
+b
+a
+a
+b
+save
+m
+unsaved
