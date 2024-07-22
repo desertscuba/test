@@ -25,3 +25,5 @@ newthings
 
 saved
 unsaved
+
+cool
