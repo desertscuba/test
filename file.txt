@@ -17,3 +17,8 @@ m
 k
 n
 a
+a
+a
+b
+b
+c
