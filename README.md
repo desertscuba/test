@@ -11,4 +11,8 @@ whatsup
 
 
 
+<<<<<<< Updated upstream
 hello
+=======
+stuff
+>>>>>>> Stashed changes
