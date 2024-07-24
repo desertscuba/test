@@ -45,3 +45,4 @@ save
 m
 unsaved
 unsaved2
+amend
